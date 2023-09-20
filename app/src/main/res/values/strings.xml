@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Currency</string>
+    <string name="poundLabel">GBP: £</string>
+    <string name="dollarLabel">USD: $</string>
+    <string name="euroLabel">EUR: €</string>
+    <string name="clearLabel">Clear</string>
+    <string name="convertLabel">Convert</string>
 </resources>
